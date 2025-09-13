@@ -1,0 +1,6 @@
+[[main]]
+pageRef = "posts"
+weight = 9_999
+
+[[footer]]
+none = "none"

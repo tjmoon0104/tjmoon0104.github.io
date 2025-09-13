@@ -1,0 +1,23 @@
+languageCode = "ko"
+languageName = "한국어"
+weight = 3
+title = "Seoul to Swiss"
+
+[params]
+  displayName = "한국어"
+  isoCode = "ko"
+  rtl = false
+  dateFormat = "2006-01-02"
+  logo = "img/logo_transparent.png"
+  description = "한국어 설명"
+
+[params.author]
+  name = "Blowfish"
+  email = "nuno@n9o.xyz"
+  image = "img/logo_transparent.png"
+  headline = "한국어 페이지"
+  bio = "한국어 페이지"
+  links = [
+    { x-twitter = "https://twitter.com/burufugu" },
+    { github = "https://github.com/nunocoracao/blowfish" },
+  ]
