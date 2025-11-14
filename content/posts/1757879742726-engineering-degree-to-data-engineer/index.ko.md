@@ -1,11 +1,11 @@
 ---
-title: "new-article"
-date: 2025-09-13
-draft: false
+title: "친환경 공학 전공에서 데이터엔지니어 까지"
+date: 2025-09-14
+draft: true
 description: "a description"
 tags: ["example", "tag"]
 ---
- an example to get you started
+
 # This is a heading
 ## This is a subheading
 ### This is a subsubheading
